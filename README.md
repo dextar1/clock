@@ -1,2 +1,2 @@
 # clock
-This is basic JS Clock
+This is basic JS Clock.
